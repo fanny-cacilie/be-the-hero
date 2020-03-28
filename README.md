@@ -3,12 +3,13 @@
 </p>
 
 ---
+<br>
 <ul>
   
   <li>
     <h2>About this project</h2>
 
-  Application for ONGs.
+  Application for ONGs in progress...
 
   Application developed for studying purposes on the 11th "Semana Omnistack" promoted by [RocketSeat](https://rocketseat.com.br/).
   </li>
@@ -27,33 +28,30 @@
     <li>Expo</li>
   </ul>
   </li>
+  
   <br>
+  
   <li>
     <h2> Plus </h2>
-
-  <ul>
-     <li></li>
-  </ul>
-
+    <ul>
+       <li></li>
+    </ul>
   </li>
   
   <br>
   
   <li>
-    <h2>Como rodar </h2> 
-
-  --> run 
-  $ npm install 
-  to install all dependencies and requirements.
-
+    <h2>How to run</h2> 
+    $ npm install <br>
+    to install all dependencies and requirements.
   </li>
    
   <br><br>
 
 </ul>
 
-<p align="center"
-<h2> Feel free to fork this project and make it fly higher!</h2>
+<p align="center">
+<h3> Feel free to fork this project and make it fly higher!</h3>
 </p>
 
 <br>
