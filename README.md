@@ -54,8 +54,6 @@
 <h3> Feel free to fork this project and make it fly higher!</h3>
 </p>
 
-<br>
-
 <p align="center">
 <img src= "/frontend/src/assets/heroes.png">
 </p>
