@@ -50,11 +50,11 @@
   <li>
     <h2>How to run</h2> 
     <ol>
-      <li> First make sure you have *Node.js* installed in your computer</li><br>
-      <li> Check if *NPM* has been installed properly</li><br>
-      <li> Then run...<br>
-        `$ npm install`
-      <br> ...to install all dependencies</li>
+      <li> First make sure you have <b>Node.js</b> installed in your computer</li><br>
+      <li> Check if <b>NPM</b> has been installed properly</li><br>
+      <li> Then run the following command to install all dependecies<br>
+        `$ npm install` </li>
+
     </ol>
   </li>
    
