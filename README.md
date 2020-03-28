@@ -57,7 +57,7 @@
   
 </ul>
 
-<h3>:octocat: Feel free to fork this project and make it fly higher!</h3>
+<h3>Feel free to fork this project and make it fly higher! :octocat:</h3>
 
 <p align="center">
   <img src= "/frontend/src/assets/heroes.png">
