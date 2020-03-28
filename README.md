@@ -8,11 +8,13 @@
   <li>
     <h2>About this project</h2>
 
-    Application for ONGs. <br>
+  Application for ONGs.
 
-    Application developed for studying purposes on the 11th "Semana Omnistack" promoted by [RocketSeat](https://rocketseat.com.br/).
+  Application developed for studying purposes on the 11th "Semana Omnistack" promoted by [RocketSeat](https://rocketseat.com.br/).
   </li>
+  
   <br>
+  
   <li>
   <h2> Technologies </h2>
 
@@ -51,7 +53,7 @@
 </ul>
 
 <p align="center"
-<h3> Feel free to fork this project and make it fly higher!</h3>
+<h2> Feel free to fork this project and make it fly higher!</h2>
 </p>
 
 <br>
