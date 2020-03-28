@@ -11,7 +11,7 @@
 
   Application for ONGs in progress...
 
-  Application developed for studying purposes on the 11th "Semana Omnistack" promoted by [RocketSeat](https://rocketseat.com.br/).
+  Developed for studying purposes on the 11th "Semana Omnistack" promoted by [RocketSeat](https://rocketseat.com.br/) :rocket:
   </li>
   
   <br>
@@ -57,7 +57,7 @@
   
 </ul>
 
-<center><h3> Feel free to fork this project and make it fly higher!</h3></center>
+<h3>:octocat: Feel free to fork this project and make it fly higher!</h3>
 
 <p align="center">
   <img src= "/frontend/src/assets/heroes.png">
