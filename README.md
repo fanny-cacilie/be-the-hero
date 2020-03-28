@@ -3,15 +3,17 @@
 </p>
 
 ---
+<ul>
+  
+<li>
+  <h2>About this project</h2>
 
-<h4>About this project</h4>
+  Application for ONGs. <br>
 
-Application for ONGs. <br>
+  Application developed for studying purposes on the 11th "Semana Omnistack" promoted by [RocketSeat](https://rocketseat.com.br/) :rocket:
+</li>
 
-Application developed for studying purposes on the 11th "Semana Omnistack" promoted by [RocketSeat](https://rocketseat.com.br/) :rocket:
-
-
-<h4> Technologies </h4>
+<h2> Technologies </h2>
 
 This project is developed with the following technologies:
 
@@ -20,7 +22,7 @@ This project is developed with the following technologies:
   <li>React</li>
   <li>React Native</li>
   <li>Expo</li>
-
+</ul>
 
 
 <h4> Plus </h4>
