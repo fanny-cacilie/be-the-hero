@@ -32,12 +32,11 @@
   <br>
   
   <li>
-    <h2> Plus </h2>
-    <ul>
-       <li> validation with Celebrate and Joi</li>
-       <li>Tests with JTest</li>
-
-    </ul>
+   <h2> Plus </h2>
+   <ul>
+      <li> validation with Celebrate and Joi</li>
+      <li>Tests with JTest</li>
+   </ul>
   </li>
   
   <br>
