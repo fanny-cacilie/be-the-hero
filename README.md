@@ -22,11 +22,11 @@
   This project is developed with the following technologies:
 
   <ul>
-  <li>[Node.js](https://nodejs.org/en/)</li>
-  <li>[React](https://pt-br.reactjs.org/)</li>
-  <li>[React Native](https://reactnative.dev/)</li>   
-  <li>[Axios](https://github.com/axios/axios)</li>
-  <li>[Expo](https://expo.io/)</li>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
+  <li><a href="https://pt-br.reactjs.org/">React</a></li>
+  <li><a href="https://reactnative.dev/">React Native</a></li>   
+  <li><a href="https://github.com/axios/axios">Axios</a></li>
+  <li><a href="https://https://expo.io/">Expo</a></li>
   
   </ul>
   </li>
@@ -36,11 +36,13 @@
   <li>
    <h2> Plus </h2>
    <ul>
-      <li>Validation: 
+      <li>Validations: 
         <a href="https://hapi.dev/module/joi/">Joi </a> & 
         <a href="https://github.com/arb/celebrate"> Celebrate</li>
-      <li>Tests: [Jest](https://jestjs.io/) & [SuperTest](https://github.com/visionmedia/supertest)</li>
-   </ul>
+      <li>Tests: 
+        <a href="https://jestjs.io/">Jest </a> & 
+        <a href="https://github.com/visionmedia/supertest"> SuperTest</li>
+  </ul>
   </li>
   
   <br>
