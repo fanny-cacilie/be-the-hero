@@ -9,7 +9,7 @@
   <li>
     <h2>About this project</h2>
 
-  Application for ONGs in progress...
+  Application designed to connect non-governmental organization to people who are wiling to help.
 
   Developed for studying purposes on the 11th "Semana Omnistack" promoted by [RocketSeat](https://rocketseat.com.br/) :rocket:
   </li>
@@ -50,7 +50,7 @@
   <li>
     <h2>How to run</h2> 
     <ol>
-      <li> First make sure you have <b>Node.js</b> installed in your computer;</li><br>
+      <li> First, make sure you have <b>Node.js</b> installed in your computer;</li><br>
       <li> Check if <b>NPM</b> has been installed properly;</li><br>
       <li> 
         Then run the following command to install all dependencies:<br><br>
@@ -65,7 +65,7 @@
   
 </ul>
 
-<h3>Feel free to fork this project and make it fly higher! :octocat:</h3>
+<h3>Feel free to contribute to this project and make it fly higher! :octocat:</h3>
 
 <p align="center">
   <img src= "/frontend/src/assets/heroes.png">
