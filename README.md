@@ -38,7 +38,7 @@
    <ul>
       <li>Validations: 
         <a href="https://hapi.dev/module/joi/">Joi </a> & 
-        <a href="https://github.com/arb/celebrate"> Celebrate</li>
+        <a href="https://github.com/arb/celebrate"> Celebrate</a></li>
       <li>Tests: 
         <a href="https://jestjs.io/">Jest </a> & 
         <a href="https://github.com/visionmedia/supertest"> SuperTest</li>
@@ -61,6 +61,6 @@
   <img src= "/frontend/src/assets/heroes.png">
 </p>
 
-<p align="center">
-  <h3> Feel free to fork this project and make it fly higher!</h3>
-</p>
+<center>
+<h3> Feel free to fork this project and make it fly higher!</h3>
+
