@@ -36,8 +36,10 @@
   <li>
    <h2> Plus </h2>
    <ul>
-      <li>Validation: [Joi](https://hapi.dev/module/joi/) & [Celebrate](https://github.com/arb/celebrate)</li>
-      <li>Tests: [Jest](https://jestjs.io/) & [supertest](https://github.com/visionmedia/supertest)</li>
+      <li>Validation: 
+        <a href="https://hapi.dev/module/joi/">Joi </a> & 
+        <a href="https://github.com/arb/celebrate"> Celebrate</li>
+      <li>Tests: [Jest](https://jestjs.io/) & [SuperTest](https://github.com/visionmedia/supertest)</li>
    </ul>
   </li>
   
