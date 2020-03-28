@@ -50,11 +50,13 @@
   <li>
     <h2>How to run</h2> 
     <ol>
-      <li> First make sure you have <a href="https://nodejs.org/en/">Node.js</a> installed in your computer</li><br>
+      <li> First make sure you have 
+        <a href="https://nodejs.org/en/">Node.js</a> 
+      installed in your computer</li><br>
       <li> Check if NPM has been installed</li><br>
-      <li> The run...<br>
-        ´´´$ npm install´´´ <br>
-        <br> to install all dependencies</li>
+      <li> Then run...<br>
+        ```$ npm install``` <br>
+      to install all dependencies</li>
     </ol>
   </li>
    
