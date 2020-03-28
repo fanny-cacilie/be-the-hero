@@ -34,7 +34,9 @@
   <li>
     <h2> Plus </h2>
     <ul>
-       <li></li>
+       <li> validation with Celebrate</li>
+       <li>Tests with JTest</li>
+
     </ul>
   </li>
   
