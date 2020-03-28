@@ -53,8 +53,9 @@
       <li> First make sure you have <b>Node.js</b> installed in your computer;</li>
       <li> Check if <b>NPM</b> has been installed properly</li>
       <li> 
-        Then run the following command to install all dependecies;
-        `$ npm install` 
+        Then run the following command to install all dependecies:
+        `$ npm install`
+        $ npm install
       </li>
      </ol>
   </li>
