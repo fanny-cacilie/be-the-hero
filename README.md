@@ -22,10 +22,10 @@
   This project is developed with the following technologies:
 
   <ul>
-    <li>Node.js</li>
-    <li>React</li>
-    <li>React Native</li>
-    <li>Expo</li>
+    <li>[Node.js](https://nodejs.org/en/)</li>
+    <li>[React](https://pt-br.reactjs.org/)</li>
+    <li>[React Native](https://reactnative.dev/)</li>
+    <li>[Expo](https://expo.io/)</li>
   </ul>
   </li>
   
@@ -34,8 +34,8 @@
   <li>
    <h2> Plus </h2>
    <ul>
-      <li>Validation: Celebrate & Joi</li>
-      <li>Tests: JTest</li>
+      <li>Validation: [Joi](https://hapi.dev/module/joi/) & [Celebrate](https://github.com/arb/celebrate)</li>
+      <li>Tests: [Jest](https://jestjs.io/) & [supertest](https://github.com/visionmedia/supertest)</li>
    </ul>
   </li>
   
