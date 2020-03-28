@@ -53,12 +53,12 @@
     to install all dependencies and requirements.
   </li>
    
-  <br><br>
-
+  <br>
+  
 </ul>
+
+<center><h3> Feel free to fork this project and make it fly higher!</h3></center>
 
 <p align="center">
   <img src= "/frontend/src/assets/heroes.png">
 </p>
-
-<center><h3> Feel free to fork this project and make it fly higher!</h3></center>
