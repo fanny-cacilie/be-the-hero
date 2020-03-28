@@ -1,6 +1,6 @@
-![](/frontend/src/assets/logo.svg)
+<center>
 <img src = "/frontend/src/assets/logo.svg">
-
+</center>
 
 # be-the-hero
 Application for ONGs. Developed on the 11th "Semana Omnistack" from RocketSeat.
