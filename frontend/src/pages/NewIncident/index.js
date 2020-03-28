@@ -51,7 +51,7 @@ export default function NewIncident() {
 
           <h1> Cadastrar novo caso </h1>
           <p>
-            Descreva o caso detalhadamente para encontrar um herói ou heroína para ajudar
+            Descreva o caso detalhadamente para encontrar um herói ou heroína para ajudar.
           </p>
 
           <Link className="back-link" to="/profile">
