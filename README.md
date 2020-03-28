@@ -41,11 +41,13 @@ $ npm install
 to install all dependencies and requirements.
 
 </li>
-<br>
+<br><br>
 
 <p align="center"
-<h3> Feel free to fork this project and make it fly higher :grey_exclamation: </h3> 
+#h3 Feel free to fork this project and make it fly higher!
 </p>
+
+<br>
 
 <p align="center">
 <img src= "/frontend/src/assets/heroes.png">
