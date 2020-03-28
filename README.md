@@ -61,6 +61,4 @@
   <img src= "/frontend/src/assets/heroes.png">
 </p>
 
-<center>
-<h3> Feel free to fork this project and make it fly higher!</h3>
-
+<center><h3> Feel free to fork this project and make it fly higher!</h3></center>
