@@ -54,8 +54,7 @@
       <li> Check if <b>NPM</b> has been installed properly;</li><br>
       <li> 
         Then run the following command to install all dependencies: <br>
-        
-        ```
+                
         $ npm install
         
    </li>
