@@ -22,10 +22,12 @@
   This project is developed with the following technologies:
 
   <ul>
-    <li>[Node.js](https://nodejs.org/en/)</li>
-    <li>[React](https://pt-br.reactjs.org/)</li>
-    <li>[React Native](https://reactnative.dev/)</li>
-    <li>[Expo](https://expo.io/)</li>
+  <li>[Node.js](https://nodejs.org/en/)</li>
+  <li>[React](https://pt-br.reactjs.org/)</li>
+  <li>[React Native](https://reactnative.dev/)</li>   
+  <li>[Axios](https://github.com/axios/axios)</li>
+  <li>[Expo](https://expo.io/)</li>
+  
   </ul>
   </li>
   
