@@ -34,8 +34,8 @@
   <li>
    <h2> Plus </h2>
    <ul>
-      <li> validation with Celebrate and Joi</li>
-      <li>Tests with JTest</li>
+      <li>Validation: Celebrate & Joi</li>
+      <li>Tests: JTest</li>
    </ul>
   </li>
   
@@ -52,6 +52,9 @@
 </ul>
 
 <p align="center">
-<img src= "/frontend/src/assets/heroes.png">
-<h3> Feel free to fork this project and make it fly higher!</h3>
+  <img src= "/frontend/src/assets/heroes.png">
+</p>
+
+<p align="center">
+  <h3> Feel free to fork this project and make it fly higher!</h3>
 </p>
