@@ -9,7 +9,7 @@
   <li>
     <h2>About this project</h2>
 
-  Application designed to connect non-governmental organization to people who are wiling to help.
+  Application designed to connect non-governmental organizations to people who are wiling to help.
 
   Developed for studying purposes on the 11th "Semana Omnistack" promoted by [RocketSeat](https://rocketseat.com.br/) :rocket:
   </li>
