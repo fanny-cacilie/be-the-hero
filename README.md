@@ -24,9 +24,10 @@
   <ul>
   <li><a href="https://nodejs.org/en/">Node.js</a></li>
   <li><a href="https://pt-br.reactjs.org/">React</a></li>
-  <li><a href="https://reactnative.dev/">React Native</a></li>   
-  <li><a href="https://github.com/axios/axios">Axios</a></li>
+  <li><a href="https://reactnative.dev/">React Native</a></li>
   <li><a href="https://https://expo.io/">Expo</a></li>
+  <li><a href="https://www.sqlite.org/index.html">SQLite</a></li>
+  
   
   </ul>
   </li>
